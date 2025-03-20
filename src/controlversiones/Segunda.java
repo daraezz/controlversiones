@@ -12,4 +12,7 @@ public class Segunda {
     public void nada(){
         System.out.println("Te estoy modificando");
     }
+    public void exx(){
+        System.out.println("Estoy en la rama final");
+    }
 }
