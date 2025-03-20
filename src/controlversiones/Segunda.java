@@ -9,5 +9,7 @@ package controlversiones;
  * @author dam
  */
 public class Segunda {
-    
+    public void exx(){
+        System.out.println("Estoy en la rama final");
+    }
 }
